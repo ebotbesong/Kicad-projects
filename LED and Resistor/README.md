@@ -2,6 +2,10 @@
 
  The design was done using KICAD 5.1.6
  
+ <p align="center">
+ <img width="450" src="./Besong_board_V1.jpg"></p>
+ <br/>
+ 
  
  
 
