@@ -16,6 +16,7 @@
     (rev 1.0)
     (company "Yokohama National University")
     (comment 1 "Besong J. E.")
+    (comment 2 "This is my first Kicad Designer")
   )
 
   (layers
